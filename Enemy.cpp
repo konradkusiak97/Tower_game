@@ -1,8 +1,5 @@
 /*
  * Enemy.cpp
- *
- *  Created on: Feb 26, 2019
- *      Author: kevinw
  */
 
 #include "Enemy.h"

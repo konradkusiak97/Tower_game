@@ -1,8 +1,5 @@
 /*
  * DiagonalEnemy.h
- *
- *  Created on: Mar 13, 2019
- *      Author: kevinw
  */
 
 #ifndef TODODIAGONALENEMY_H_

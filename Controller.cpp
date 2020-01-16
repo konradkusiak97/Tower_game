@@ -1,9 +1,5 @@
 /*
  * Controller.cpp
- *
- *  Created on: Feb 24, 2016
- *      Author: kevinw
- *  Update: To fix the issue that cannot equip the fourth weapon, code updated
  */
 
 #include "Controller.h"

@@ -1,8 +1,5 @@
 /*
  * Object.cpp
- *
- *  Created on: Feb 26, 2019
- *      Author: kevinw
  */
 
 #include "Object.h"

@@ -1,8 +1,5 @@
 /*
  * IceTower.h
- *
- *  Created on: Mar 14, 2019
- *      Author: kevinw
  */
 
 #ifndef TODOICETOWER_H_

@@ -1,8 +1,5 @@
 /*
  * Enemy.h
- *
- *  Created on: Feb 26, 2019
- *      Author: kevinw
  */
 
 #ifndef ENEMY_H_

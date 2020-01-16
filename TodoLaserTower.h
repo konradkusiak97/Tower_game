@@ -1,8 +1,5 @@
 /*
  * Laser.h
- *
- *  Created on: Mar 14, 2019
- *      Author: kevinw
  */
 
 #ifndef TODOLASERTOWER_H_

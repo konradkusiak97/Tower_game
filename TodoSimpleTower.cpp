@@ -1,8 +1,5 @@
 /*
  * LazyTower.cpp
- *
- *  Created on: Mar 11, 2019
- *      Author: kevinw
  */
 
 #include "TodoSimpleTower.h"

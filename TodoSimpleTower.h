@@ -1,8 +1,5 @@
 /*
  * LazyTower.h
- *
- *  Created on: Mar 11, 2019
- *      Author: kevinw
  */
 
 #ifndef TODOSIMPLETOWER_H_

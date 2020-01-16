@@ -1,8 +1,5 @@
 /*
  * Arena.cpp
- *
- *  Created on: Feb 25, 2016
- *      Author: kevinw
  */
 
 #include "Arena.h"

@@ -1,8 +1,5 @@
 /*
  * Object.h
- *
- *  Created on: Feb 26, 2019
- *      Author: kevinw
  */
 
 #ifndef OBJECT_H_

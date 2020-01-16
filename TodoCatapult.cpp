@@ -1,8 +1,5 @@
 /*
  * Catapult.cpp
- *
- *  Created on: Mar 12, 2019
- *      Author: kevinw
  */
 
 #include "TodoCatapult.h"

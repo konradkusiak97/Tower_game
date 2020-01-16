@@ -1,8 +1,5 @@
 /*
  * IceTower.cpp
- *
- *  Created on: Mar 14, 2019
- *      Author: kevinw
  */
 
 #include "TodoIceTower.h"

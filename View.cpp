@@ -1,8 +1,5 @@
 /*
  * View.cpp
- *
- *  Created on: Feb 24, 2016
- *      Author: kevinw
  */
 
 #include "View.h"

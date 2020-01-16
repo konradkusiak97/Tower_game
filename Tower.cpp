@@ -1,8 +1,5 @@
 /*
  * Tower.cpp
- *
- *  Created on: Feb 26, 2019
- *      Author: kevinw
  */
 
 #include "Tower.h"
